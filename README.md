@@ -27,13 +27,13 @@ Users should be able to:
 ### Screenshot
 
 ![](/screenshots/Desktop%20view.png)
-![](/screenshots/Mobile%20view.png.png)
+![](/screenshots/Mobile%20view.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github Repository](https://github.com/Mohsin-93/Order-Summary-component)
+- Live Site URL: [Github Pages](https://mohsin-93.github.io/Order-Summary-component/)
 
 ## My process
 
